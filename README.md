@@ -2,7 +2,7 @@
 This project provides a script-level augmentation method for handwritten text recognition  
 Accepted at ICFHR2022  
 ## Table of Contents
-[Overview](https://github.com/IMU-MachineLearningSXD/script-level_aug_ICFHR2022/blob/main/README.md#overview)
+[Overview](https://github.com/IMU-MachineLearningSXD/script-level_aug_ICFHR2022/blob/main/README.md#overview)  
 [Augmented samples](https://github.com/IMU-MachineLearningSXD/script-level_aug_ICFHR2022/blob/main/README.md#augmented-samples)
 ## Overview
 ![image](https://github.com/IMU-MachineLearningSXD/script-level_aug_ICFHR2022/blob/main/dst/flow.jpg)
