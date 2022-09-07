@@ -14,7 +14,8 @@ At first, we extract the skeleton of each handwritten word and segment the whole
 - skimage  
 - opencv-python  
 - numpy  
-## Usage
+## Usage  
+'python script_aug.py'
 
 ## Augmented samples
 ![image](https://github.com/IMU-MachineLearningSXD/script-level_aug_ICFHR2022/blob/main/dst/samples.jpg)
