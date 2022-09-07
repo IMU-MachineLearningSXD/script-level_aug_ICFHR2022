@@ -5,7 +5,8 @@ Accepted at ICFHR2022.
 [Overview](https://github.com/IMU-MachineLearningSXD/script-level_aug_ICFHR2022#overview)  
 [Requirements](https://github.com/IMU-MachineLearningSXD/script-level_aug_ICFHR2022#requirements)  
 [Usage](https://github.com/IMU-MachineLearningSXD/script-level_aug_ICFHR2022#usage)  
-[Augmented samples](https://github.com/IMU-MachineLearningSXD/script-level_aug_ICFHR2022#augmented-samples)  
+[Augmented samples](https://github.com/IMU-MachineLearningSXD/script-level_aug_ICFHR2022#augmented-samples)
+[Citation](https://github.com/IMU-MachineLearningSXD/script-level_aug_ICFHR2022#citation)
 ## Overview
 ![image](https://github.com/IMU-MachineLearningSXD/script-level_aug_ICFHR2022/blob/main/dst/flow.jpg)
 At first, we extract the skeleton of each handwritten word and segment the whole word into several components with the skeleton and eight-neighborhood information. At second, we move the three control points of each component according a empirical formula, since each component is controlled by Bézier control points and making script variation is based on the control point movement. Finally, we transform new script from the control points after movement by quadratic Bézier curves and assemble them together to form a new word sample.  
@@ -35,4 +36,4 @@ At first, we extract the skeleton of each handwritten word and segment the whole
 ![image](https://github.com/IMU-MachineLearningSXD/script-level_aug_ICFHR2022/blob/main/dst/samples.jpg)
 
 ## Citation
-Waiting for the conference to start. 
+Waiting for the ICFHR2022 to start. 
