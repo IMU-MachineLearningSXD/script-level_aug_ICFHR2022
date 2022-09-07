@@ -5,7 +5,7 @@ Accepted at ICFHR2022.
 [Overview](https://github.com/IMU-MachineLearningSXD/script-level_aug_ICFHR2022#overview)  
 [Requirements](https://github.com/IMU-MachineLearningSXD/script-level_aug_ICFHR2022#requirements)  
 [Usage](https://github.com/IMU-MachineLearningSXD/script-level_aug_ICFHR2022#usage)  
-[Augmented samples](https://github.com/IMU-MachineLearningSXD/script-level_aug_ICFHR2022#augmented-samples)
+[Augmented samples](https://github.com/IMU-MachineLearningSXD/script-level_aug_ICFHR2022#augmented-samples)  
 [Citation](https://github.com/IMU-MachineLearningSXD/script-level_aug_ICFHR2022#citation)
 ## Overview
 ![image](https://github.com/IMU-MachineLearningSXD/script-level_aug_ICFHR2022/blob/main/dst/flow.jpg)
