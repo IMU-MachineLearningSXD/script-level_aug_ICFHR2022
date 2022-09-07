@@ -14,8 +14,21 @@ At first, we extract the skeleton of each handwritten word and segment the whole
 - skimage  
 - opencv-python  
 - numpy  
-## Usage  
+## Usage
+We provide some handwritten images that can be used directly in the `src` folder
+### Run the following code without making any adjustments
     python script_aug.py
+### Parameter modification  
+| Parameter                 |    Default      | Modified location         |
+| :---:                     |    :----:       |         :---:             |
+|input                      |./`src`/`0.jpg`  | `script_aug.py` line 142  |
+|output                     |./`dst`          | `script_aug.py` line 145  |
+|augment_times              |10               | `script_aug.py` line 143  |
+|transformation method      |bezier           | `script_aug.py` line 64   |
+|control point movement area|0.6              | `script_aug.py` line 14   |
+|script_thickness           |2                | `script_aug.py` line 14   |
+|background_color           |white            | `script_aug.py` line 108  |
+|script_color               |black            | `script_aug.py` line 118  | 
 
 ## Augmented samples
 ![image](https://github.com/IMU-MachineLearningSXD/script-level_aug_ICFHR2022/blob/main/dst/samples.jpg)
