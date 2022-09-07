@@ -17,7 +17,7 @@ At first, we extract the skeleton of each handwritten word and segment the whole
 - numpy  
 ## Usage
 - We provide some handwritten images that can be used directly in the `src` folder.
-- We also provide three deformation methods, which are Bezier, Affine and L2A. The code will default to Bezier curve deformation.
+- We also provide three deformation methods, which are Bezier, Affine and L2A. These methods can be used individually or in combination. The code will default to Bezier curve deformation.
 ### Run the following code without making any adjustments
     python script_aug.py
 ### Parameter modification  
