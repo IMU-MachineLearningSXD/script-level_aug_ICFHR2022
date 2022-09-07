@@ -1,6 +1,6 @@
 # Script-Level Word Sample Augmentation for Few-shot Handwritten Text Recognition  
-This project provides a script-level augmentation method for handwritten text recognition  
-Accepted at ICFHR2022  
+This project provides a script-level augmentation method for handwritten text recognition.  
+Accepted at ICFHR2022.  
 ## Table of Contents
 [Overview](https://github.com/IMU-MachineLearningSXD/script-level_aug_ICFHR2022#overview)  
 [Requirements](https://github.com/IMU-MachineLearningSXD/script-level_aug_ICFHR2022#requirements)  
@@ -33,3 +33,6 @@ At first, we extract the skeleton of each handwritten word and segment the whole
 
 ## Augmented samples
 ![image](https://github.com/IMU-MachineLearningSXD/script-level_aug_ICFHR2022/blob/main/dst/samples.jpg)
+
+## Citation
+Waiting for the conference to start. 
