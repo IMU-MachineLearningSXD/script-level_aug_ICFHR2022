@@ -36,4 +36,4 @@ At first, we extract the skeleton of each handwritten word and segment the whole
 ![image](https://github.com/IMU-MachineLearningSXD/script-level_aug_ICFHR2022/blob/main/dst/samples.jpg)
 
 ## Citation
-Waiting for the ICFHR2022 to start. 
+Chen W, Su X, Zhang H. Script-Level Word Sample Augmentation for Few-Shot Handwritten Text Recognition[C]//International Conference on Frontiers in Handwriting Recognition. Springer, Cham, 2022: 316-330.
